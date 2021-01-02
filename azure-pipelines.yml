@@ -29,7 +29,7 @@ stages:
               backendServiceArm: 'Azure subscription 1(5044cc49-3ccd-46a8-8d0a-10c2360ee144)'
               ensureBackend: true
               backendAzureRmResourceGroupName: 'tfsazaskrgp'
-              backendAzureRmResourceGroupLocation: 'East Australia'
+              backendAzureRmResourceGroupLocation: 'australiaeast'
               backendAzureRmStorageAccountName: 'tfaksazsafortfsfile'
               backendAzureRmContainerName: 'tfscontainerfiles'
               backendAzureRmKey: 'aks-base.tfstate'
